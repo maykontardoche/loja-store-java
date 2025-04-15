@@ -1,0 +1,12 @@
+com\example\subscriptionstore\repository\UserRepository.class
+com\example\subscriptionstore\repository\PlanRepository.class
+com\example\subscriptionstore\repository\SubscriptionRepository.class
+com\example\subscriptionstore\model\Subscription.class
+com\example\subscriptionstore\controller\PlanController.class
+com\example\subscriptionstore\service\PlanService.class
+com\example\subscriptionstore\SubscriptionStoreApplication.class
+com\example\subscriptionstore\controller\SubscriptionController.class
+com\example\subscriptionstore\service\SubscriptionService.class
+com\example\subscriptionstore\model\Plan.class
+com\example\subscriptionstore\controller\SubscriptionRequest.class
+com\example\subscriptionstore\model\User.class
